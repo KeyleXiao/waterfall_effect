@@ -6,3 +6,8 @@
 open the folder(interactive water),use test.scene.
 
 use "WASD" to control the sphere move.
+
+
+
+
+![demo2](./waterfall_effect2.gif)
